@@ -1,9 +1,0 @@
-| Day     | Muscle Focus                     | Exercises                                                        |
-| ------- | -------------------------------- | ---------------------------------------------------------------- |
-| **Mon** | Chest, Back, Biceps, Core        | bench Press, Lat Pulldown, Dumbbell Curl, Plank                  |
-| **Tue** | Legs, Shoulders, Triceps, Core   | Goblet Squat, machine Shoulder Press, cable Pushdown, Crunches   |
-| **Wed** | Chest, Back, Legs, Core          | Incline Press, Cable Row, Leg Press, Plank                       |
-| **Thu** | Shoulders, Biceps, Triceps, Core | Lateral Raise, EZ Bar Curl, Overhead Triceps Ext, Bicycle Crunch |
-| **Fri** | Chest, Back, Legs, Core          | Chest Press, Lat Pulldown, Walking Lunges, Leg Raises            |
-| **Sat** | Shoulders, Arms (Pump Day), Core | DB Shoulder Press, Hammer Curl, cable Pushdown, Crunches         |
-
